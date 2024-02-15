@@ -1,0 +1,108 @@
+/* header */
+#one{
+    background-color: #070F2B;
+    height: 100px;
+    display: flex;
+}
+#one1{
+    height:98px;
+    width:100px;
+    background-image: url("https://2.bp.blogspot.com/--O18jEgi-a0/V6IJozCqrqI/AAAAAAAABNY/S9VhaRJgOZMYzM6uwMyi2gzzOiqSPMhbgCK4B/s1600/perbedaan-penggunaan-shop-dan-store-dalam-bahasa-inggris.png");
+    background-size: cover;
+    margin-right: 100px;
+}
+#one2{
+    color: yellow;
+}
+/* main */
+#two{
+    height: 950px;
+    background-color: #535C91;
+}
+#two1{
+    height: 300px;
+    display: flex;
+}
+#two11{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.1xb6tlHq2kVDaOexKtA7ngHaFj&pid=Api&P=0&h=180");
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    margin: 30px;
+}
+#two12{
+    color: white;
+    margin-right: 50px;
+}
+#two131{
+margin-top: 30px;
+margin-left: 100px;
+background-color: yellow;
+}
+#two131:hover{
+    background-color: red;
+    transform: scale(2);
+}
+/*  */
+#two2{
+    height: 300px;
+    display: flex;
+}
+#two21{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.lD_aUbJCKesxbvDKzTMeMQHaFS&pid=Api&P=0&h=180");
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    margin: 30px;
+}
+#two22{
+    color: white;
+    margin-right: 50px;
+}
+#two231{
+margin-top: 30px;
+margin-left: 100px;
+background-color: yellow;
+}
+#two231:hover{
+    background-color: red;
+    transform: scale(2);
+}
+/*  */
+#two3{
+    height: 300px;
+    display: flex;
+}
+#two31{
+    background-image: url("https://i0.wp.com/my.chicagobotanic.org/wp-content/uploads/Daffodil-arrangement.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    margin: 30px;
+}
+#two32{
+    color: white;
+    margin-right: 50px;
+}
+#two331{
+margin-top: 30px;
+margin-left: 100px;
+background-color: yellow;
+}
+#two331:hover{
+    background-color: red;
+    transform: scale(2);
+}
+
+
+/* footer */
+#three{
+    height: 150px;
+    background-color: #1B1A55;
+    text-align: center;
+    color: white;
+}
+#three1{
+    color: white;
+}
+
